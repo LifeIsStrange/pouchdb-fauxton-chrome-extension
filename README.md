@@ -4,6 +4,9 @@ usage:
 This fork repair the extension on modern chromium, you can load this repository directly from chrome, it is already built.
 The extension is currently pending a chrome webstore review.
 
+set this line in your code to let the extension observe your local DBs
+window.PouchDB = PouchDB;
+
 pouchdb-fauxton-chrome-extension
 ================================
 
