@@ -1,9 +1,8 @@
 
-<edit>
-udage:
+
+usage:
 This fork repair the extension on modern chromium, you can load this repository directly from chrome, it is already built.
 The extension is currently pending a chrome webstore review.
-</edit>
 
 pouchdb-fauxton-chrome-extension
 ================================
@@ -17,7 +16,6 @@ that's the default anyway).
 Demo
 ----
 
-[Not available anymore in the Chrome Web Store](https://chrome.google.com/webstore/detail/pouchdb-fauxton/hbhhpaojmpfimakffndmpmpndcmonkfa)
 
 Internals
 ---------
